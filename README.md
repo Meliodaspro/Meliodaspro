@@ -18,3 +18,4 @@ const meliodas = {
   hobbies: ["🎧 Music", "🎮 Gaming", "📷 Design"],
   lookingToCollaborateOn: ["Web Projects", "Open Source"]
 }
+```
